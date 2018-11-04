@@ -1,8 +1,8 @@
 {
-    "name": "jcpires/cakephp3-aclmanager",
+    "name": "vlinhd11/cakephp3-aclmanager",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "cake3", "plugin", "acl"],
-    "homepage": "https://github.com/JcPires/CakePhp3-AclManager",
+    "homepage": "https://github.com/vlinhd11/CakePhp3-AclManager",
     "description": "An acl-manager plugin for CakePhp3",
     "authors": [
         {
